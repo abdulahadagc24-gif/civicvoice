@@ -1,0 +1,6 @@
+{
+  "name": "CivicVoice",
+  "description": "Interactive miniature smart city for exploring urban infrastructure and citizen proposals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
